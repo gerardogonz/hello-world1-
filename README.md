@@ -1,5 +1,7 @@
 # hello-world1-
-actividad 27 de enero
+
 
 
 se modifico el archivo
+
+Modificación 2, se eliminó una linea del archivo
